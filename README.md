@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **μservice complexity**
 
-- 🌱 I’m currently learning **Kubernetes, Istio, any LLM**
+- 🌱 I’m currently learning **μservice complexity along with LLM**
 
-- 🤝 I’m looking for help with **LLM since I am so a newbie**
+- 🤝 I’m looking for help with **any types of learning since I am so a newbie**
 
 - 💬 Ask me about **Distributed system or blockchain**
 
